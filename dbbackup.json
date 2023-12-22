@@ -1,0 +1,135 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "rating": 8.8,
+      "image": "https://upload.wikimedia.org/wikipedia/lv/7/7f/Inception_ver3.jpg",
+      "comments": [
+        "Amazing movie!",
+        "The ending blew my mind.",
+        "Great visual effects."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "year": 1994,
+      "director": "Frank Darabont",
+      "rating": 9.3,
+      "image": "https://upload.wikimedia.org/wikipedia/lv/8/81/ShawshankRedemptionMoviePoster.jpg",
+      "comments": [
+        "One of the best movies ever made!",
+        "The redemption theme is powerful."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "rating": 9.0,
+      "image": "https://upload.wikimedia.org/wikipedia/lv/8/83/Dark_knight_rises_poster.jpg",
+      "comments": [
+        "Heath Ledger's Joker is iconic.",
+        "Epic action scenes."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "year": 1994,
+      "director": "Quentin Tarantino",
+      "rating": 8.9,
+      "image": "https://upload.wikimedia.org/wikipedia/lv/8/82/Pulp_Fiction_cover.jpg",
+      "comments": [
+        "Tarantino's masterpiece!",
+        "Quirky and stylish storytelling."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "year": 1972,
+      "director": "Francis Ford Coppola",
+      "rating": 9.2,
+      "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQUObbKfZg1xCfueoYQX7RZFIBoXQ6rAy0ToKzsuFs0X71FfObEFNfSUhRjRbFy1VEU",
+      "comments": [
+        "Classic mafia film!",
+        "Marlon Brando's performance is legendary."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "year": 1994,
+      "director": "Robert Zemeckis",
+      "rating": 8.8,
+      "image": "https://upload.wikimedia.org/wikipedia/lv/6/67/Forrest_Gump_poster.jpg",
+      "comments": [
+        "Heartwarming and inspiring.",
+        "Tom Hanks is brilliant."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Matrix",
+      "genre": "Sci-Fi",
+      "year": 1999,
+      "director": "The Wachowskis",
+      "rating": 8.7,
+      "image": "https://upload.wikimedia.org/wikipedia/lv/thumb/c/c1/The_Matrix_Poster.jpg/200px-The_Matrix_Poster.jpg",
+      "comments": [
+        "Revolutionary visual effects.",
+        "Mind-bending storyline."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The Silence of the Lambs",
+      "genre": "Thriller",
+      "year": 1991,
+      "director": "Jonathan Demme",
+      "rating": 8.6,
+      "image": "https://upload.wikimedia.org/wikipedia/lv/thumb/8/86/The_Silence_of_the_Lambs_poster.jpg/200px-The_Silence_of_the_Lambs_poster.jpg",
+      "comments": [
+        "Chilling and suspenseful.",
+        "Anthony Hopkins' Hannibal Lecter is iconic."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Schindler's List",
+      "genre": "Biography",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "rating": 8.9,
+      "image": "https://upload.wikimedia.org/wikipedia/lv/thumb/3/38/Schindler%27s_List_movie.jpg/200px-Schindler%27s_List_movie.jpg",
+      "comments": [
+        "Powerful and emotional.",
+        "A must-watch Holocaust film."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Fight Club",
+      "genre": "Drama",
+      "year": 1999,
+      "director": "David Fincher",
+      "rating": 8.8,
+      "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQogPv9vkDrp-wai4A6MLtMu3Ge5i9QIkKxPm9p94_zuCiFhhh1VvATeCTjmfcWES0t",
+      "comments": [
+        "Mind-bending plot twists.",
+        "Brad Pitt and Edward Norton are fantastic."
+      ]
+    }
+  ]
+}

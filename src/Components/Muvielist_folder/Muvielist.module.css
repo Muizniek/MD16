@@ -1,0 +1,66 @@
+.h1 {
+  color: inherit;
+}
+
+.movies_list h1 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.movies_cards {
+  display: grid;
+  margin-bottom: 5rem;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.movie_card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8);
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.movie_card img {
+  border-top: transparent;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  width: 100%;
+  max-width: 250px;
+}
+
+.text {
+  padding: 20px;
+}
+
+.movies_list {
+  padding: 20px;
+}
+
+.delete_button {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.delete_button button {
+  display: flex;
+  max-height: 35px;
+  max-width: 100px;
+  background-color: #ff6347;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.delete_button button:hover {
+  background-color: #d63e30;
+  transition: 200ms;
+}
